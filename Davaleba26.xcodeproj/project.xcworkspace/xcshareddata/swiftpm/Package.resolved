@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/likanozadze/NetworkLayer.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c2a05ae681dc9022f0166b261602c855cdfe4d29"
+      }
+    }
+  ],
+  "version" : 2
+}
